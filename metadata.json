@@ -1,0 +1,11 @@
+{
+  "name": "RIP SOLANA",
+  "symbol": "RIP",
+  "description": "Solana is dying",
+  "image": "https://raw.githubusercontent.com/IANoNameI/test/refs/heads/main/ezgif-415223be5020a2.gif",
+  "extensions": {
+    "website": "https://solana.com",
+    "twitter": "https://solana.com",
+    "telegram": "https://solana.com"
+  }
+}
