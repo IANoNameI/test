@@ -1,0 +1,11 @@
+{
+  "name": "Prime Video",
+  "symbol": "PRIME",
+  "description": "Prime Video",
+  "image": "https://raw.githubusercontent.com/IANoNameI/test/refs/heads/main/l5kKMNQx_400x400.png",
+  "extensions": {
+    "website": "https://www.primevideo.com",
+    "twitter": "https://www.primevideo.com",
+    "telegram": "https://www.primevideo.com"
+  }
+}
